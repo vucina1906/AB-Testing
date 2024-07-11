@@ -1,0 +1,3 @@
+* This AB testing project includes an analysis of advertisements on product purchases. I was using different statistical methods for categorical and non-categorical data to calculate statistical significance between control and experiment groups of users. 
+
+* I used data from Kaggle, link https://www.kaggle.com/datasets/faviovaz/marketing-ab-testing. Using these data I had oportunity to test influence of different features (weather the users saw advertisement or not, on which day users saw the advertisement, which part of the day and quantity of the advertisement that users saw) on our target feature 'converted' that represent whether the user bought the product or not. 
